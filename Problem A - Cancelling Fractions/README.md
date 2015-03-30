@@ -8,10 +8,14 @@ There are several input instances, one on each line.  Each instance will be two 
 
 ## Output
 For each input case *i*, output either:  
-`Case i: n`
+```
+Case i: n
+```
 Where *n* is a digit we can cancel from both the numerator and denominator, producing an equivalent fraction. If multiple digits can be cancelled, choose the smallest.  
 Or, if no canceling is possible, output:  
-`Case i: Not possible`
+```
+Case i: Not possible
+```
 
 ## Sample Input:
 ```
