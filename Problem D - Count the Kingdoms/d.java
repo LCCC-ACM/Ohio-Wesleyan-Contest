@@ -66,7 +66,7 @@ class King implements Comparable {
     @Override
     public int compareTo(Object o) {
         King otherKing = (King) o;
-        return -(this.length() - otherKing.length());
+        return this.startDate - otherKing.startDate;
     }
 }
 
