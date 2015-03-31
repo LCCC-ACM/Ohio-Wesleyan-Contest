@@ -7,7 +7,7 @@ A **prefix** of a string is a substring that begins with the first character.  A
 | abacab          | bacab  | 0                            |
 | abacab          | acab   | 1                            |
 | abacab          | cab    | 0                            |
-| abacab          | ab     | 0                            |
+| abacab          | ab     | 2                            |
 | abacab          | b      | 0                            |
 
 Rather than making you output an entire list of numbers, we’ll gather the results into one number by adding them all together.  So in this case, you’d output 9.
