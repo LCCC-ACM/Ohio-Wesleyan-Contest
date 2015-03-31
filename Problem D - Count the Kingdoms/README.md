@@ -1,4 +1,4 @@
-** *NOTE: This problem was not solved at the OWU Programming Contest; however the correct solution to this problem has been posted.* **
+**_NOTE: This problem was not solved at the OWU Programming Contest; however the correct solution to this problem has been posted._**
 
 # Problem D - Count the Kingdoms
 Minnesota Smith, the famed archaeologist, has come to you with a problem.  She has been excavating an area of the wilderness that, in the past, was home to some unknown number of kingdoms.  She has found a collection of tombstones stating the starting and ending dates of each king's reign, but not the countries the king was in charge of. (Apparently the people who made the tombstones thought it was obvious.  They were wrong).  What's worse, she has only found the tombstones for some of the kings - the rest have been lost.  So it's not possible to get a complete chronology of the rulers.
